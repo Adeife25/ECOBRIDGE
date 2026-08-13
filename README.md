@@ -12,7 +12,7 @@ The platform allows SMEs to record and manage their electronic waste, request pi
 
 ---
 
-## 🚀 Problem
+## Problem
 
 Electronic waste is one of the fastest-growing waste streams, yet many businesses lack a structured way to manage and dispose of their electronic waste responsibly.
 
@@ -24,7 +24,7 @@ EcoBridge addresses this problem by providing a centralized platform where:
 
 ---
 
-## 💡 How EcoBridge Works
+## How EcoBridge Works
 
 ```text
                  ┌─────────────────┐
@@ -70,9 +70,9 @@ EcoBridge addresses this problem by providing a centralized platform where:
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 Authentication & Authorization
+### Authentication & Authorization
 
 * Role-based authentication
 * Three user roles:
@@ -87,7 +87,7 @@ EcoBridge addresses this problem by providing a centralized platform where:
 * Password reset
 * Role-based access control
 
-### ♻️ Waste Management
+### Waste Management
 
 * Create waste logs
 * Manage waste records
@@ -95,7 +95,7 @@ EcoBridge addresses this problem by providing a centralized platform where:
 * Categorize waste
 * Make waste visible to recycling partners
 
-### 🚚 Pickup Management
+###  Pickup Management
 
 * SMEs can request waste pickups
 * Partners can view pickup requests
@@ -103,7 +103,7 @@ EcoBridge addresses this problem by providing a centralized platform where:
 * Successful partner selection
 * Pickup completion tracking
 
-### 💬 Messaging
+###  Messaging
 
 * communication between SMEs and Partners
 * Inbox
@@ -111,7 +111,7 @@ EcoBridge addresses this problem by providing a centralized platform where:
 * Pickup-related communication
 * Conversation status tracking
 
-### 🔔 Notifications
+###  Notifications
 
 Users receive notifications for:
 
@@ -121,7 +121,7 @@ Users receive notifications for:
 * New messages
 * Other relevant platform activities
 
-### 📊 Admin Dashboard
+###  Admin Dashboard
 
 Administrators can monitor:
 
@@ -133,7 +133,7 @@ Administrators can monitor:
 * Recent activities
 * Platform metrics
 
-### 📜 History
+###  History
 
 Users can view historical records including:
 
@@ -144,7 +144,7 @@ Users can view historical records including:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -165,7 +165,7 @@ Users can view historical records including:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ECOBRIDGE/
@@ -184,7 +184,7 @@ ECOBRIDGE/
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create a `.env` file in the project root:
 
@@ -206,7 +206,7 @@ GOOGLE_CLIENT_SECRET=<google-client-secret>
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -254,7 +254,7 @@ http://localhost:5000
 
 ---
 
-# 📡 API Endpoints
+#  API Endpoints
 
 ## Authentication
 
@@ -269,7 +269,7 @@ http://localhost:5000
 
 ---
 
-## 💬 Messaging
+##  Messaging
 
 | Method | Endpoint                                    | Description                |
 | ------ | ------------------------------------------- | -------------------------- |
@@ -281,7 +281,7 @@ http://localhost:5000
 
 ---
 
-## 🔔 Notifications
+##  Notifications
 
 | Method | Endpoint                          | Description                   |
 | ------ | --------------------------------- | ----------------------------- |
@@ -291,7 +291,7 @@ http://localhost:5000
 
 ---
 
-## 📊 Admin
+##  Admin
 
 | Method | Endpoint               | Description                      |
 | ------ | ---------------------- | -------------------------------- |
@@ -299,7 +299,7 @@ http://localhost:5000
 
 ---
 
-## 📜 History
+##  History
 
 | Method | Endpoint       | Description                                       |
 | ------ | -------------- | ------------------------------------------------- |
@@ -307,7 +307,7 @@ http://localhost:5000
 
 ---
 
-## 🧪 API Testing
+##  API Testing
 
 The API can be tested using **Postman** or any REST API client.
 
@@ -321,7 +321,7 @@ Authorization: Bearer <your-jwt-token>
 
 ---
 
-## 🔄 Core User Flow
+##  Core User Flow
 
 ### SME
 
@@ -375,7 +375,7 @@ Monitor Activities
 
 ---
 
-## 🔒 Security
+## Security
 
 EcoBridge implements several security measures including:
 
@@ -388,7 +388,7 @@ EcoBridge implements several security measures including:
 
 ---
 
-## 🌍 Impact
+## Impact
 
 EcoBridge is designed to contribute to a more organized e-waste ecosystem by:
 
@@ -400,7 +400,7 @@ EcoBridge is designed to contribute to a more organized e-waste ecosystem by:
 
 ---
 
-## 🚧 Future Improvements
+##  Future Improvements
 
 Planned improvements may include:
 
@@ -418,7 +418,7 @@ Planned improvements may include:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *Add screenshots of the EcoBridge platform here.*
 
@@ -435,7 +435,7 @@ Recommended screenshots:
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 **Live Demo:** (https://ecobridge-backend-x2uh.onrender.com)
 
